@@ -62,7 +62,7 @@
     "koa-bodyparser": "^4.4.1",
     "language-monitor": "^1.0.3",
     "moment": "^2.29.1",
-    "mqtt": "^4.3.7",
+    "mqtt": "^5.3.5",
     "nedb": "^1.8.0",
     "njwt": "^2.0.0",
     "node-schedule": "^2.1.1",

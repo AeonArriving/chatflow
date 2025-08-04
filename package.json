@@ -58,7 +58,7 @@
     "file-box": "^1.4.12",
     "fs": "^0.0.1-security",
     "html-to-docx": "^1.8.0",
-    "koa": "^2.14.2",
+    "koa": "^3.0.1",
     "koa-bodyparser": "^4.4.1",
     "language-monitor": "^1.0.3",
     "moment": "^2.29.1",
